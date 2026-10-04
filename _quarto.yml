@@ -11,19 +11,16 @@ metadata-files:
   - _design/defaults.yml
 
 website:
-  title: "Your Name"
+  title: "Mateo Aliaga"
   description: "A student website about research, work, and the world beyond class."
   # Later, when published, uncomment and replace the address below.
-  # site-url: "https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/"
+  # site-url: "https://mataliaga.github.io/quarto-academic-website-template/"
   navbar:
     left:
       - text: Home
         href: index.qmd
       - text: Research
         href: research.qmd
-      - text: Career
-        href: career.qmd
-      - text: Travel
-        href: travel.qmd
-      - text: Blog
-        href: blog.qmd
+      - text: Extracurricular
+        href: Extracurricular.qmd
+

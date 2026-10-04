@@ -1,149 +1,65 @@
 [
   {
-    "objectID": "travel.html#niagara-falls",
-    "href": "travel.html#niagara-falls",
-    "title": "Travel & places",
-    "section": "Niagara Falls",
-    "text": "Niagara Falls\nFIELD NOTES / A DIFFERENT PACE\nSome places make it easier to slow down and pay attention. Here, the movement of the water and the scale of the landscape are a reminder to look beyond the frame of a photograph.\nI’m interested in the small details that make a place feel different: how people move through it, where they gather, and what they stop to notice."
-  },
-  {
-    "objectID": "travel.html#what-i-want-to-remember",
-    "href": "travel.html#what-i-want-to-remember",
-    "title": "Travel & places",
-    "section": "What I want to remember",
-    "text": "What I want to remember\n\nThe details that a photograph doesn’t capture.\nA question about the place or the people who live there.\nSomething I would notice differently on a return visit.\n\n\nMore observations on the blog"
-  },
-  {
-    "objectID": "posts/learning-from-a-chart.html",
-    "href": "posts/learning-from-a-chart.html",
-    "title": "What a chart can tell me",
-    "section": "",
-    "text": "A chart makes some patterns easier to see, but it also reflects a series of choices. Which observations belong in the plot? What belongs on each axis? Which differences deserve attention?"
-  },
-  {
-    "objectID": "posts/learning-from-a-chart.html#one-choice-that-matters",
-    "href": "posts/learning-from-a-chart.html#one-choice-that-matters",
-    "title": "What a chart can tell me",
-    "section": "One choice that matters",
-    "text": "One choice that matters\nIn a comparison of income and life expectancy, a logarithmic income axis changes the spacing of the values. That can help reveal patterns that are difficult to see when a few large values stretch the scale."
-  },
-  {
-    "objectID": "posts/learning-from-a-chart.html#what-i-still-need-to-ask",
-    "href": "posts/learning-from-a-chart.html#what-i-still-need-to-ask",
-    "title": "What a chart can tell me",
-    "section": "What I still need to ask",
-    "text": "What I still need to ask\nA visible association does not explain why the pattern exists. Before moving from description to explanation, I need to think about the research question, the data, and possible alternative explanations.\nMy next step is to describe the plot in one careful sentence, then write down a question it cannot answer.\nBack to all posts"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
-    "section": "",
-    "text": "STUDENT / RESEARCHER / EXPLORER\n\n\nMaking sense of the social world.\nI’m an undergraduate interested in people, politics, and what we can learn from data. This is a place for my projects, the questions I’m working through, and a few notes from beyond the classroom.\nExplore my research Say hello"
-  },
-  {
-    "objectID": "index.html#questions-worth-asking",
-    "href": "index.html#questions-worth-asking",
-    "title": "Home",
-    "section": "Questions worth asking",
-    "text": "Questions worth asking\nHow do the places we live shape our opportunities? I’m learning to turn broad questions into small, careful research projects.\nAcademic interests & research"
-  },
-  {
-    "objectID": "index.html#learning-by-noticing",
-    "href": "index.html#learning-by-noticing",
-    "title": "Home",
-    "section": "Learning by noticing",
-    "text": "Learning by noticing\nA new place, a good conversation, or a surprising chart can be the start of an idea. I keep those observations in my blog.\nRead my latest notes"
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Notes & reflections",
-    "section": "",
-    "text": "A notebook for things I’m learning, questions I haven’t answered yet, and observations I want to keep.\n\n\n\n\n\n\n\n\n\nA place to keep my questions\n\n\nWhy I’m starting this notebook, and what I hope to put in it.\n\n\n\n\n\nSep 21, 2026\n\n\n\n\n\n\n\nWhat a chart can tell me\n\n\nA reflection on choosing a scale, naming a variable, and asking a better question.\n\n\n\n\n\nSep 18, 2026\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "career.html",
-    "href": "career.html",
-    "title": "Profession & career",
-    "section": "",
-    "text": "I’m exploring opportunities that combine research, clear communication, and work with communities. I’m especially interested in learning how evidence informs decisions outside the classroom."
-  },
-  {
-    "objectID": "career.html#where-id-like-to-go",
-    "href": "career.html#where-id-like-to-go",
-    "title": "Profession & career",
-    "section": "",
-    "text": "I’m exploring opportunities that combine research, clear communication, and work with communities. I’m especially interested in learning how evidence informs decisions outside the classroom."
-  },
-  {
-    "objectID": "career.html#experience",
-    "href": "career.html#experience",
-    "title": "Profession & career",
-    "section": "Experience",
-    "text": "Experience\n\nStudent researcher · Course project\nFALL 2026\n\nExplore a social question using a public dataset.\nCreate a visualization in R and explain the choices behind it.\nShare code and notes so a classmate can follow the analysis."
-  },
-  {
-    "objectID": "career.html#skills-im-building",
-    "href": "career.html#skills-im-building",
-    "title": "Profession & career",
-    "section": "Skills I’m building",
-    "text": "Skills I’m building\nResearch: turning a broad interest into a focused question, finding sources, and explaining limitations.\nData: working with R, making visualizations, and keeping a project organized.\nCollaboration: giving useful feedback, documenting work, and contributing to a shared project."
-  },
-  {
-    "objectID": "career.html#lets-connect",
-    "href": "career.html#lets-connect",
-    "title": "Profession & career",
-    "section": "Let’s connect",
-    "text": "Let’s connect\nI’m happy to talk about projects, internships, and opportunities to learn.\nEmail me"
-  },
-  {
-    "objectID": "posts/hello-world.html",
-    "href": "posts/hello-world.html",
-    "title": "A place to keep my questions",
-    "section": "",
-    "text": "This website begins with a simple idea: make a little space for work that is still taking shape.\nNot every post needs to be a finished argument. I want to use this notebook to explain something I’ve learned, record a question that stayed with me, or connect an idea from class to something I noticed elsewhere."
-  },
-  {
-    "objectID": "posts/hello-world.html#what-ill-write-about",
-    "href": "posts/hello-world.html#what-ill-write-about",
-    "title": "A place to keep my questions",
-    "section": "What I’ll write about",
-    "text": "What I’ll write about\nI expect to share reflections on course projects, small discoveries while learning R, and observations from places I visit. Over time, these notes should show how my questions change."
-  },
-  {
-    "objectID": "posts/hello-world.html#a-question-to-start-with",
-    "href": "posts/hello-world.html#a-question-to-start-with",
-    "title": "A place to keep my questions",
-    "section": "A question to start with",
-    "text": "A question to start with\nWhat makes an explanation useful to someone who hasn’t taken the same class? That’s something I’d like to practice here.\nBack to all posts"
-  },
-  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Academic interests & research",
     "section": "",
-    "text": "I’m interested in how people participate in public life, how communities differ, and how data can help us ask better questions about both.\n\nPolitical participation: Who gets involved, and what makes participation easier?\nCities and communities: How do local environments shape everyday choices?\nData and communication: How can a chart make a complex pattern easier to understand?"
+    "text": "I’m interested in how people form political opinions, how governments respond, and how data can help us understand these relationships.\n\nPublic opinion: How do people evaluate politicians and their performance?\nElections and polarization: What shapes voting preferences, and why do political opinions become divided?\nLatin America: How do political and economic decisions influence development and inequality?\nLocal government: How do cities respond to community needs and translate policy into everyday outcomes?"
   },
   {
     "objectID": "research.html#what-im-curious-about",
     "href": "research.html#what-im-curious-about",
     "title": "Academic interests & research",
     "section": "",
-    "text": "I’m interested in how people participate in public life, how communities differ, and how data can help us ask better questions about both.\n\nPolitical participation: Who gets involved, and what makes participation easier?\nCities and communities: How do local environments shape everyday choices?\nData and communication: How can a chart make a complex pattern easier to understand?"
+    "text": "I’m interested in how people form political opinions, how governments respond, and how data can help us understand these relationships.\n\nPublic opinion: How do people evaluate politicians and their performance?\nElections and polarization: What shapes voting preferences, and why do political opinions become divided?\nLatin America: How do political and economic decisions influence development and inequality?\nLocal government: How do cities respond to community needs and translate policy into everyday outcomes?"
   },
   {
-    "objectID": "research.html#a-project-im-developing",
-    "href": "research.html#a-project-im-developing",
+    "objectID": "research.html#applied-data-analysis-coursework",
+    "href": "research.html#applied-data-analysis-coursework",
     "title": "Academic interests & research",
-    "section": "A project I’m developing",
-    "text": "A project I’m developing\n\nComparing life expectancy across countries\nCOURSE PROJECT · IN PROGRESS\nQuestion. How does life expectancy vary with income across countries in a given year?\nApproach. Use R to explore the historical Gapminder data and make a clearly labeled visualization.\nWhat I’m learning. Choosing the year, scale, and unit of analysis changes what readers can see. An association in a plot is a starting point for questions, not evidence of a causal effect.\nRead a reflection on this project"
+    "section": "Applied Data Analysis Coursework",
+    "text": "Applied Data Analysis Coursework\n\nEmpirical Approaches (Political Science Research Methods): Using data and statistical methods to investigate political questions, focus on election data, ANES 2024.\nAdvanced Empirical Approaches (Advanced Political Science Research Methods): Applying advanced statistical methods to political research, focus on global datasets, WDI, Gapminder, ACS, and OWID.\nComputational Social Science: Using programming and computational methods to analyze social and political questions, focus on text and image analysis. ## Past projects\n\n\nPast quantitative project: Foreign direct investment and income inequality in Latin America\nQUANTITATIVE RESEARCH · LATIN AMERICA\nQuestion. What is the relationship between foreign direct investment and income inequality in Latin America?\nApproach. Used an ordinary least squares (OLS) regression model to examine the relationship between FDI and income inequality.\nFocus. Exploring whether foreign investment is associated with differences in income inequality across the Latin American countries studied.\n\n  Read the paper ↗"
+  },
+  {
+    "objectID": "research.html#skills-methods",
+    "href": "research.html#skills-methods",
+    "title": "Academic interests & research",
+    "section": "Skills & methods",
+    "text": "Skills & methods\n\n R: Proficient in data analysis and visualization.\n Python: Basic to intermediate proficiency.\nOLS regression: Experience building regression models and interpreting their results.\nText and image analysis: Experience applying computational methods to written and visual material.\nBilingual: Fluent in English and native Spanish speaker."
   },
   {
     "objectID": "research.html#what-comes-next",
     "href": "research.html#what-comes-next",
     "title": "Academic interests & research",
     "section": "What comes next",
-    "text": "What comes next\nI’d like to compare the same countries over time and consider what these measures leave out."
+    "text": "What comes next\nI’d like to develop projects on public opinion, elections, and political polarization, while continuing to explore questions about Latin America and local government."
+  },
+  {
+    "objectID": "Extracurricular.html",
+    "href": "Extracurricular.html",
+    "title": "Outside of the Classroom & Office",
+    "section": "",
+    "text": "Member & Co-head of Events | 2025/2026 to Present\nRepresent student perspectives and serve as a liaison between the student body and the Dean’s Office.\n\n\n\nMembers of the BCLA Dean’s Student Advisory Board with former Speaker of the House Nancy Pelosi."
+  },
+  {
+    "objectID": "Extracurricular.html#campus-leadership",
+    "href": "Extracurricular.html#campus-leadership",
+    "title": "Outside of the Classroom & Office",
+    "section": "",
+    "text": "Member & Co-head of Events | 2025/2026 to Present\nRepresent student perspectives and serve as a liaison between the student body and the Dean’s Office.\n\n\n\nMembers of the BCLA Dean’s Student Advisory Board with former Speaker of the House Nancy Pelosi."
+  },
+  {
+    "objectID": "Extracurricular.html#research-experience",
+    "href": "Extracurricular.html#research-experience",
+    "title": "Outside of the Classroom & Office",
+    "section": "Research Experience",
+    "text": "Research Experience\n\nInstitute for Leadership Studies, LMU\nPolitical Science Research Assistant | Professor Michael Genovese\nAssist Professor Michael Genovese with political science research at LMU’s Institute for Leadership Studies.\n\n\nLMU Padel Club\nCo-Founder, Co-President & Treasurer | 2025/2026 to Present\nFounded and grew the club to over 60 members. Manage a budget of over $2,000 and oversee club operations.\n\n\n\nPadel match against University of Southern California"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "STUDENT & RESEARCHER\n\n\nMaking sense of the social world.\nI’m an undergraduate student at Loyola Marymount University studying political science and economics, with a focus on applied data science.\nI’m interested in politics, public opinion, and local government, and in how I can use data and research methods to deepen my understanding and improve my work.\nThis is a place for my projects, the questions I’m working through, and a few notes from beyond the classroom.\nExplore my research"
   }
 ]
